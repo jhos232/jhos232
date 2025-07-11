@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+me llaman jhoss o jhostin 
+estoy estudiando ingeniera en sistemas ya vamos por el tercer año -_^
+no sé qué estoy haciendo pero funciona
 <!--
 **jhos232/jhos232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
