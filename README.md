@@ -1,5 +1,5 @@
-## Hi there 👋
-me llaman jhoss o jhostin 
+## Hi there👋
+## me llaman jhoss o jhostin 
 ## estoy estudiando ingeniera en sistemas ya vamos por el tercer año -_^
 ## no sé qué estoy haciendo pero funciona
 <!--
